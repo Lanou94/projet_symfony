@@ -10,3 +10,9 @@
 !var/logs/.gitkeep
 !var/sessions/.gitkeep
 /phpunit.xml
+.buildpath
+.project
+.settings/
+var/
+bin/symfony_requirements
+
