@@ -31,4 +31,5 @@ class DefaultController extends Controller
     {
         return $this->render('AppBundle:default:posts.html.twig');
     }
+  
 }
